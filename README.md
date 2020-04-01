@@ -7,4 +7,4 @@
 * Refresh the todo list by pulling the screen
 * Saves data locally as a json
 
-![](readme/screenshot.png)
+<img src="readme/screenshot.png" width="360" />
